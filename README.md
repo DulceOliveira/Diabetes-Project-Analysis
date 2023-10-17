@@ -35,7 +35,7 @@ The following sections provide an overview of the project's components and key f
 - Seaborn
 - Scikit-Learn
 - Pickle
-- Flask (for the web application)
+- Streamlit (for the web application)
 
 Looking ahead, there is room for growth. Expanding the dataset, optimizing the application, 
 and dive deeper into model interpretability.
